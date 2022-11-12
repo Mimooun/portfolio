@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c70e8e80.css",
+    "main.js": "/static/js/main.89938e8c.js",
+    "static/js/787.7e6a8f84.chunk.js": "/static/js/787.7e6a8f84.chunk.js",
+    "static/media/space4staff.png": "/static/media/space4staff.f5a487c1153c5bfd2a09.png",
+    "static/media/food.jpeg": "/static/media/food.d88b60d786bbdecd31d4.jpeg",
+    "static/media/sympanux2.jpeg": "/static/media/sympanux2.6f8da76653d7483ee447.jpeg",
+    "static/media/sympanux.jpeg": "/static/media/sympanux.7df0cb056d9106746e76.jpeg",
+    "static/media/school.jpeg": "/static/media/school.e4aef7c402545a0546b3.jpeg",
+    "static/media/phamarcie.jpeg": "/static/media/phamarcie.11358c89faa92be83298.jpeg",
+    "static/media/Mimoun Zouhri.pdf": "/static/media/Mimoun Zouhri.1a8781161a87507ba09b.pdf",
+    "static/media/admin2.png": "/static/media/admin2.41e5eeb29035ec70946f.png",
+    "static/media/contact1.png": "/static/media/contact1.8ddfbfd11798f881db54.png",
+    "static/media/github.png": "/static/media/github.6a148d6d8d8c9afc518f.png",
+    "static/media/twitter.png": "/static/media/twitter.332bedab6e0491923ab1.png",
+    "static/media/MZ.png": "/static/media/MZ.103f6099876b2072159a.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f9578ff32fe1c6cfadee.png",
+    "index.html": "/index.html",
+    "main.c70e8e80.css.map": "/static/css/main.c70e8e80.css.map",
+    "main.89938e8c.js.map": "/static/js/main.89938e8c.js.map",
+    "787.7e6a8f84.chunk.js.map": "/static/js/787.7e6a8f84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c70e8e80.css",
+    "static/js/main.89938e8c.js"
+  ]
+}
